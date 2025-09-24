@@ -35,6 +35,13 @@ React19との変更点をわかる範囲でまとめました。
 
 https://x.com/aokuma783/status/1952930123591860381
 
+## 資格
+基本情報技術者試験 2019/04
+
+ファイナンシャル・プランナー2級 2022/01
+
+応用情報受験予定 2025/10/12
+
 <!--
 **aokuma783/aokuma783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
