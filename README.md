@@ -9,9 +9,7 @@ OSS活動をしていないので特に表示するものがないです！
 学習のために写経したコードです。
 
 ## 学習中の言語
-[![Top Langs](https://github-readme-stats-fork-five.vercel.app/api/top-langs/?username=aokuma783&hide=MDX,shell&hide_progress=true&locale=ja&langs_count=20&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-TypeScriotはこれから。1ミリも書けない。
+[![Top Langs](https://github-readme-stats-fork-five.vercel.app/api/top-langs/?username=aokuma783&hide=MDX,shell,DockerFile,TypeScript&hide_progress=true&locale=ja&langs_count=20&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 学習中の書籍やチュートリアル
 
